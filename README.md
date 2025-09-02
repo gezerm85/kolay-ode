@@ -396,11 +396,9 @@ Bu ödeme sistemi platformu, modern web teknolojileri kullanılarak geliştirilm
 
 **Proje Hakkında Sorularınız İçin:**
 
-- 📧 **E-posta:** [mehmet.celebi.gezer@example.com]
-- 💼 **LinkedIn:** [LinkedIn Profilin]
-- 🐙 **GitHub:** [GitHub Profilin]
-- 🌐 **Portfolio:** [Portfolio Website]
-
+- 📧 **E-posta:** [gezermcelebi@gmail.com](mailto:gezermcelebi@gmail.com)
+- 💼 **LinkedIn:** [Mehmet Çelebi Gezer](https://www.linkedin.com/in/mehmet-%C3%A7elebi-gezer-605a38217/)
+- 🐙 **GitHub:** [@gezerm85](https://github.com/gezerm85)
 ---
 
 <div align="center">
